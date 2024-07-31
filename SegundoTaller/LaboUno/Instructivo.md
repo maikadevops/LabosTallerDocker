@@ -70,7 +70,12 @@ mi-app/
 
 ## Paso 5: Detener y Eliminar los Contenedores (Opcional) ##
 
+1. **Ejecuta los siguientes comandos:**
+
     ```bash
     docker stop mi-app-frontend mi-app-backend
+    ```
+
+    ```bash
     docker rm mi-app-frontend mi-app-backend
     ```
