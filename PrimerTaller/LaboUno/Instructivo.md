@@ -23,8 +23,8 @@ mi_sitio_web/
 
 * Copia y pega el siguiente contenido en el archivo Dockerfile:
 
-```FROM nginx:latest
-
+``` Dockerfile
+FROM nginx:latest
 # Path: /usr/share/nginx/html
 COPY /sitio /usr/share/nginx/html
 ```
@@ -35,7 +35,8 @@ COPY /sitio /usr/share/nginx/html
 
 * Copia y pega el siguiente código HTML en el archivo index.html, reemplazando la URL de LinkedIn y la URL de tu imagen de perfil con tus propias URL:
 
-```<!DOCTYPE html>
+``` html
+<!DOCTYPE html>
 <html>
 <head>
 <title>Mi primera imagen Docker</title>
