@@ -35,3 +35,7 @@ docker stop <ID_DEL_CONTENEDOR>
 ```
 
 Reemplaza <ID_DEL_CONTENEDOR> con el ID del contenedor que obtuviste al ejecutarlo en el paso 2. Puedes encontrar el ID del contenedor ejecutando docker ps.
+
+**Para mayor información sobre la imagen docker con el juego de supermario, visita:**
+
+https://hub.docker.com/r/pengbai/docker-supermario
