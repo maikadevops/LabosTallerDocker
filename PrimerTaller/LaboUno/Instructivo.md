@@ -26,7 +26,8 @@ mi_sitio_web/
 ```FROM nginx:latest
 
 # Path: /usr/share/nginx/html
-COPY /sitio /usr/share/nginx/html```
+COPY /sitio /usr/share/nginx/html
+```
 
 2. **Paso 2: Crear el archivo index.html**
 
@@ -56,7 +57,8 @@ COPY /sitio /usr/share/nginx/html```
     S&iacute;gueme en LinkedIn
   </a>b
 </body>
-</html>```
+</html>
+```
 
 3. **Paso 3: Construir la imagen Docker**
 
