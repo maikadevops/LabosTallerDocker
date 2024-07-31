@@ -72,8 +72,5 @@ mi-app/
 
     ```bash
     docker stop mi-app-frontend mi-app-backend
-    ```
-    
-    ```bash
     docker rm mi-app-frontend mi-app-backend
     ```
