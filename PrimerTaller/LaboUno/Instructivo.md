@@ -1,14 +1,14 @@
-# 🚀 Mini-Laboratorio: Despega tu primera imagen Docker 🚀
+## Mini-Laboratorio: Despega tu primera imagen Docker 🚀
 
-## Objetivo:
+# Objetivo:
 
 * Este instructivo te guiará en el proceso de crear una imagen Docker y ejecutar un contenedor para mostrar tu página web personalizada con tu perfil de LinkedIn.
 
-## 🛠️ Requisitos previos:
+# 🛠️ Requisitos previos:
 
 * Docker: Asegúrate de tener Docker instalado en tu sistema. Puedes descargarlo e instalarlo desde el sitio web oficial de Docker: https://www.docker.com/get-started
 
-## 📂 Estructura de archivos:
+# 📂 Estructura de archivos:
 
 Crea la siguiente estructura de carpetas y archivos en tu computadora:
 
